@@ -1,5 +1,5 @@
 # Unity-Audio-Occlusion-With-Way-Tracing
-Sound occlusion project for Unity using Ray Casting
+Sound occlusion script for Unity using Ray Casting
 
 Basic setup:
 - Attach an Audio Source(s), Audio Low Pass Filter components  to your object;
