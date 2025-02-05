@@ -1,4 +1,4 @@
-# Unity-Audio-Occlusion-With-Way-Tracing
+# Unity-Audio-Occlusion-With-Ray-Tracing
 Sound occlusion script for Unity using Ray Casting
 
 Basic setup:
