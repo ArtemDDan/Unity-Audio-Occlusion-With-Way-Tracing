@@ -1,5 +1,10 @@
 # Unity-Scripts-For-Audio-Implementation
 
+# Spline sound source mover
+NEW
+The script is used for moving the sound source along the spline relative to the player's position. 
+Such setup is used for adding sounds to rivers or other large curvy objects that emit the sound. 
+This script requiers the latest spline package by Unity.
 
 
 
