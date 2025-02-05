@@ -4,7 +4,7 @@
 
 
 
-Sound occlusion script for Unity using Ray Casting
+# Sound occlusion script for Unity using Ray Casting
 Ver 2.0 
 Update Log:
 - No need to add low-pass filter on object anymore, it's done automatically;
